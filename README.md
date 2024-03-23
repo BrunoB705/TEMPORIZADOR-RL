@@ -1,5 +1,5 @@
 # TEMPORIZADOR DE SALTO ROCKET LEAGUE
-Temporizador de salto en el Rocket League (Muestra los segundos que quedan para poder saltar)
+Temporizador de salto en el Rocket League (Muestra los segundos restantes que quedan para poder saltar)
 
 
 Use las librerías Threading,Tkinter y Pygame.
